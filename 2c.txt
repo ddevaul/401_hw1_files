@@ -1,0 +1,15 @@
+kennel_V_PROG
+dignify_V_PPART_WK
+loosen_V_INF
+size_V_3sg_PRES
+impart_V_PROG
+taboo_V_3sg_PRES
+intonation_N_3pl
+devilfish_N_3sg_GEN
+consociation_N_3sg_GEN
+advice_N_3sg
+acidy_A_COMP
+narcotic_A_SUPER
+before_Conj
+since_Conj
+voluminously_Adv
